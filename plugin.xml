@@ -23,9 +23,7 @@
                 <source url="https://cdn.cocoapods.org/"/>
             </config>
             <pods use-frameworks="true">
-                <pod name="GoogleMLKit/TextRecognition"/>
                 <pod name="GoogleMLKit/BarcodeScanning"/>
-                <pod name="GoogleMLKit/ImageLabeling"/>
             </pods>
         </podspec>
     </platform>
